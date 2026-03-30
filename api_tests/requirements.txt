@@ -1,0 +1,7 @@
+# API Tests — Python dependencies (separate from the Playwright UI suite)
+pytest>=7.4.0
+pytest-timeout>=2.1.0
+pytest-html>=3.2.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+

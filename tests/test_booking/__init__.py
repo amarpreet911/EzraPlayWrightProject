@@ -1,0 +1,2 @@
+"""Test booking package initialization"""
+
